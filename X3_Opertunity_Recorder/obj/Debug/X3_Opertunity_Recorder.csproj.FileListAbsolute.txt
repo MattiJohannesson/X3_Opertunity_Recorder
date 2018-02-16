@@ -1,0 +1,11 @@
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\bin\Debug\X3_Opertunity_Recorder.exe.config
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\bin\Debug\X3_Opertunity_Recorder.exe
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\bin\Debug\X3_Opertunity_Recorder.pdb
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.csprojResolveAssemblyReference.cache
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.Form1.resources
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.Properties.Resources.resources
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.csproj.GenerateResource.Cache
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.csproj.CoreCompileInputs.cache
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.exe
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.pdb
+C:\Users\Matti\Desktop\X3_Opertunity_Recorder\X3_Opertunity_Recorder\obj\Debug\X3_Opertunity_Recorder.AddOpertunity.resources
